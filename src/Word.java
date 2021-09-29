@@ -62,7 +62,7 @@ public class Word {
         } else System.out.println("a < b");
     }
 }
-//МАГИЯ!!!!!!!
+//МАГИЯ!!!!!!!!!!
 
 
 
